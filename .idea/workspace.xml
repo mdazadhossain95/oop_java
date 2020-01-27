@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a33ecdf4-3e87-4246-9f40-237cb5057dd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/byteshortint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloatAndDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Float_Double_pound_to_kilogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeckerRank_example_soliution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/int_byte_short_long.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteshortint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byteshortint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,17 +25,64 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WqbELQu8ZNF4PNZJGKquvh6hRQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Float_Double_pound_to_kilogram">
+    <configuration name="FloatAndDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FloatAndDouble" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Float_Double_pound_to_kilogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Float_Double_pound_to_kilogram" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="byteshortint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byteshortint" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="int_byte_short_long" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="int_byte_short_long" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Float_Double_pound_to_kilogram" />
+        <item itemvalue="Application.FloatAndDouble" />
+        <item itemvalue="Application.int_byte_short_long" />
+        <item itemvalue="Application.byteshortint" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -57,11 +106,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579879959387</updated>
-      <workItem from="1579879962392" duration="955000" />
+      <workItem from="1579879962392" duration="6386000" />
+      <workItem from="1580086430363" duration="781000" />
+      <workItem from="1580088205128" duration="37000" />
+      <workItem from="1580140106183" duration="4086000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="12" key="CommitChangelistDialog2" timestamp="1580144224120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580144224120" />
+    <state width="235" height="695" key="GridCell.Tab.0.bottom" timestamp="1580143944075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="235" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580143944075" />
+    <state width="235" height="695" key="GridCell.Tab.0.center" timestamp="1580143944075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="235" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580143944075" />
+    <state width="235" height="695" key="GridCell.Tab.0.left" timestamp="1580143944075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="235" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580143944075" />
+    <state width="235" height="695" key="GridCell.Tab.0.right" timestamp="1580143944075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="235" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580143944075" />
+    <state width="723" height="261" key="GridCell.Tab.1.bottom" timestamp="1580143800011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580143800011" />
+    <state width="723" height="261" key="GridCell.Tab.1.center" timestamp="1580143800010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580143800010" />
+    <state width="723" height="261" key="GridCell.Tab.1.left" timestamp="1580143800010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580143800010" />
+    <state width="723" height="261" key="GridCell.Tab.1.right" timestamp="1580143800010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580143800010" />
   </component>
 </project>
