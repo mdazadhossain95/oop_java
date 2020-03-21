@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class if_else_assignment {
 
-    public static void main (string args[]){
+    public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number.....");
         int num1 = scanner.nextInt();
