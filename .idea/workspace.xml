@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/methids_a_challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods_in_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/information.txt" beforeDir="false" afterPath="$PROJECT_DIR$/information.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/methids_a_challenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop_Java/methids_a_challenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Char_And_Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Char_And_Boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FloatAndDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FloatAndDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Float_Double_pound_to_kilogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Float_Double_pound_to_kilogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HeckerRank_example_soliution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeckerRank_example_soliution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Stdin_and_Stdout_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Stdin_and_Stdout_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Keywords_and_Expressaions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Keywords_and_Expressaions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteshortint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byteshortint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_type_operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_type_operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/if_else_statrmant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else_statrmant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/int_byte_short_long.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_byte_short_long.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methids_a_challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methids_a_challenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -46,7 +65,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -190,6 +209,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="447" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584614382261" />
+    <state x="792" y="109" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1584884896280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="792" y="109" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584884896280" />
     <state x="958" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1583014672970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -214,26 +237,27 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1583015839829" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1584613922144">
+    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl" timestamp="1584901308138">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584881598598" />
+    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl/48.24.1872.1023@48.24.1872.1023" timestamp="1584901308138" />
+    <state width="237" height="695" key="GridCell.Tab.0.bottom" timestamp="1584881276741">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584613922144" />
-    <state width="426" height="695" key="GridCell.Tab.0.bottom" timestamp="1584869429318">
+    <state width="237" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584881276741" />
+    <state width="237" height="695" key="GridCell.Tab.0.center" timestamp="1584881276740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="426" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584869429318" />
-    <state width="426" height="695" key="GridCell.Tab.0.center" timestamp="1584869429317">
+    <state width="237" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584881276740" />
+    <state width="237" height="695" key="GridCell.Tab.0.left" timestamp="1584881276740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="426" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584869429317" />
-    <state width="426" height="695" key="GridCell.Tab.0.left" timestamp="1584869429317">
+    <state width="237" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584881276740" />
+    <state width="237" height="695" key="GridCell.Tab.0.right" timestamp="1584881276740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="426" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584869429317" />
-    <state width="426" height="695" key="GridCell.Tab.0.right" timestamp="1584869429318">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="426" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584869429318" />
+    <state width="237" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584881276740" />
     <state width="723" height="258" key="GridCell.Tab.1.bottom" timestamp="1584790619020">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -258,10 +282,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584614464161" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584730195174">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="629" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1584898756149">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584730195174" />
+    <state x="629" y="322" key="com.intellij.ide.util.TipDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1584898756149" />
     <state x="964" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583015268551">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -285,8 +310,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/oop_Java$if_else_statrmant.ic" NAME="if_else_statrmant Coverage Results" MODIFIED="1584616417995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/oop_Java$HeckerRank_example_soliution.ic" NAME="HeckerRank_example_soliution Coverage Results" MODIFIED="1584616348403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/oop_Java$Keywords_and_Expressaions.ic" NAME="Keywords_and_Expressaions Coverage Results" MODIFIED="1583015839953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/oop_Java$string.ic" NAME="string Coverage Results" MODIFIED="1582710325890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/oop_Java$HeckerRank_example_soliution.ic" NAME="HeckerRank_example_soliution Coverage Results" MODIFIED="1584616348403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

@@ -34,17 +34,28 @@ public class methids_a_challenge {
     }
     public static int calculatehighscorepotion(int playscore){
 
-        if(playscore >= 1000){
-            return 1;
+//        if(playscore >= 1000){
+//            return 1;
+//        }
+//        else if (playscore >= 500 && playscore < 1000) {
+//            return 2;
+//        }
+//        else if (playscore >= 100 && playscore < 500) {
+//            return 3;
+//        }
+//        //else {
+//            return 4;
+//       // }
+
+        int position = 4;
+
+        if (playscore >= 1000){
+            position = 1;
+        } else if (playscore >= 500) {
+            position = 2;
+        } else if (playscore >= 100) {
+            position = 3;
         }
-        else if (playscore >= 500 && playscore < 1000) {
-            return 2;
-        }
-        else if (playscore >= 100 && playscore < 500) {
-            return 3;
-        }
-        else {
-            return 4;
-        }
+        return position;
     }
 }
