@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diamond_star_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/control_structure_loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information.txt" beforeDir="false" afterPath="$PROJECT_DIR$/information.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/methids_a_challenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop_Java/methids_a_challenge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Char_And_Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Char_And_Boolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FloatAndDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FloatAndDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Float_Double_pound_to_kilogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Float_Double_pound_to_kilogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeckerRank_example_soliution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeckerRank_example_soliution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Stdin_and_Stdout_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Stdin_and_Stdout_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keywords_and_Expressaions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Keywords_and_Expressaions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byteshortint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/byteshortint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_type_operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_type_operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else_statrmant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else_statrmant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_byte_short_long.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_byte_short_long.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methids_a_challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methids_a_challenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/META-INF/oop_Java.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -76,7 +59,14 @@
       <command value="if_else_statrmant" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.methids_a_challenge">
+  <component name="RunManager" selected="Application.Diamond_star_pattern">
+    <configuration name="Diamond_star_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diamond_star_pattern" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Java_Stdin_and_Stdout_II$Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Stdin_and_Stdout_II$Solution" />
       <module name="oop_Java" />
@@ -91,16 +81,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Welcome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Welcome" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="byteshortint" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="byteshortint" />
       <module name="oop_Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_structure_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control_structure_loop" />
+      <module name="oop_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,31 +124,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="switch_assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="switch_assignment" />
-      <module name="oop_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.byteshortint" />
       <item itemvalue="Application.Keywords_and_Expressaions" />
       <item itemvalue="Application.string" />
       <item itemvalue="Application.Java_Stdin_and_Stdout_II$Solution" />
-      <item itemvalue="Application.switch_assignment" />
-      <item itemvalue="Application.Welcome" />
       <item itemvalue="Application.ifkey_and_codeblock" />
       <item itemvalue="Application.methods_in_java" />
       <item itemvalue="Application.methids_a_challenge" />
+      <item itemvalue="Application.control_structure_loop" />
+      <item itemvalue="Application.Diamond_star_pattern" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Diamond_star_pattern" />
+        <item itemvalue="Application.control_structure_loop" />
         <item itemvalue="Application.methids_a_challenge" />
         <item itemvalue="Application.methods_in_java" />
         <item itemvalue="Application.ifkey_and_codeblock" />
-        <item itemvalue="Application.Welcome" />
-        <item itemvalue="Application.switch_assignment" />
       </list>
     </recent_temporary>
   </component>
@@ -242,22 +226,26 @@
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584881598598" />
     <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl/48.24.1872.1023@48.24.1872.1023" timestamp="1584901308138" />
-    <state width="237" height="695" key="GridCell.Tab.0.bottom" timestamp="1584881276741">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="746" height="872" key="GridCell.Tab.0.bottom" timestamp="1584948340317">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="237" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584881276741" />
-    <state width="237" height="695" key="GridCell.Tab.0.center" timestamp="1584881276740">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="746" height="872" key="GridCell.Tab.0.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1584948340317" />
+    <state width="746" height="872" key="GridCell.Tab.0.center" timestamp="1584948340316">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="237" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584881276740" />
-    <state width="237" height="695" key="GridCell.Tab.0.left" timestamp="1584881276740">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="746" height="872" key="GridCell.Tab.0.center/48.24.1872.1023@48.24.1872.1023" timestamp="1584948340316" />
+    <state width="746" height="872" key="GridCell.Tab.0.left" timestamp="1584948340316">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="237" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584881276740" />
-    <state width="237" height="695" key="GridCell.Tab.0.right" timestamp="1584881276740">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="746" height="872" key="GridCell.Tab.0.left/48.24.1872.1023@48.24.1872.1023" timestamp="1584948340316" />
+    <state width="746" height="872" key="GridCell.Tab.0.right" timestamp="1584948340316">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="237" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584881276740" />
+    <state width="746" height="872" key="GridCell.Tab.0.right/48.24.1872.1023@48.24.1872.1023" timestamp="1584948340316" />
     <state width="723" height="258" key="GridCell.Tab.1.bottom" timestamp="1584790619020">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
