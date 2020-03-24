@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Diamond_star_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/control_structure_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Speed_converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example_trying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overload_method_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overloading_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seconds_and_minutes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/META-INF/oop_Java.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +54,14 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="if_else_statrmant" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Diamond_star_pattern">
-    <configuration name="Diamond_star_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Diamond_star_pattern" />
-      <module name="oop_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.seconds_and_minutes">
     <configuration name="Java_Stdin_and_Stdout_II$Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Stdin_and_Stdout_II$Solution" />
       <module name="oop_Java" />
@@ -81,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Speed_converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Speed_converter" />
+      <module name="oop_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="byteshortint" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="byteshortint" />
       <module name="oop_Java" />
@@ -89,29 +91,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="control_structure_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control_structure_loop" />
+    <configuration name="example_trying" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example_trying" />
       <module name="oop_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifkey_and_codeblock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifkey_and_codeblock" />
+    <configuration name="overload_method_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overload_method_2" />
       <module name="oop_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methids_a_challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methids_a_challenge" />
+    <configuration name="overloading_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overloading_method" />
       <module name="oop_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methods_in_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods_in_java" />
+    <configuration name="seconds_and_minutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seconds_and_minutes" />
       <module name="oop_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,19 +131,19 @@
       <item itemvalue="Application.Keywords_and_Expressaions" />
       <item itemvalue="Application.string" />
       <item itemvalue="Application.Java_Stdin_and_Stdout_II$Solution" />
-      <item itemvalue="Application.ifkey_and_codeblock" />
-      <item itemvalue="Application.methods_in_java" />
-      <item itemvalue="Application.methids_a_challenge" />
-      <item itemvalue="Application.control_structure_loop" />
-      <item itemvalue="Application.Diamond_star_pattern" />
+      <item itemvalue="Application.Speed_converter" />
+      <item itemvalue="Application.example_trying" />
+      <item itemvalue="Application.overloading_method" />
+      <item itemvalue="Application.overload_method_2" />
+      <item itemvalue="Application.seconds_and_minutes" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Diamond_star_pattern" />
-        <item itemvalue="Application.control_structure_loop" />
-        <item itemvalue="Application.methids_a_challenge" />
-        <item itemvalue="Application.methods_in_java" />
-        <item itemvalue="Application.ifkey_and_codeblock" />
+        <item itemvalue="Application.seconds_and_minutes" />
+        <item itemvalue="Application.overload_method_2" />
+        <item itemvalue="Application.overloading_method" />
+        <item itemvalue="Application.example_trying" />
+        <item itemvalue="Application.Speed_converter" />
       </list>
     </recent_temporary>
   </component>
@@ -221,59 +223,63 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1583015839829" />
-    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl" timestamp="1584901308138">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584881598598" />
-    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl/48.24.1872.1023@48.24.1872.1023" timestamp="1584901308138" />
-    <state width="746" height="872" key="GridCell.Tab.0.bottom" timestamp="1584948340317">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="237" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584881276741" />
-    <state width="746" height="872" key="GridCell.Tab.0.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1584948340317" />
-    <state width="746" height="872" key="GridCell.Tab.0.center" timestamp="1584948340316">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="237" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584881276740" />
-    <state width="746" height="872" key="GridCell.Tab.0.center/48.24.1872.1023@48.24.1872.1023" timestamp="1584948340316" />
-    <state width="746" height="872" key="GridCell.Tab.0.left" timestamp="1584948340316">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="237" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584881276740" />
-    <state width="746" height="872" key="GridCell.Tab.0.left/48.24.1872.1023@48.24.1872.1023" timestamp="1584948340316" />
-    <state width="746" height="872" key="GridCell.Tab.0.right" timestamp="1584948340316">
-      <screen x="48" y="24" width="1872" height="1023" />
-    </state>
-    <state width="237" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584881276740" />
-    <state width="746" height="872" key="GridCell.Tab.0.right/48.24.1872.1023@48.24.1872.1023" timestamp="1584948340316" />
-    <state width="723" height="258" key="GridCell.Tab.1.bottom" timestamp="1584790619020">
+    <state x="549" y="170" width="453" height="543" key="FileChooserDialogImpl" timestamp="1585056694479">
       <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585056694479" />
+    <state x="717" y="235" width="453" height="543" key="FileChooserDialogImpl/48.24.1872.1023@48.24.1872.1023" timestamp="1584901308138" />
+    <state width="237" height="695" key="GridCell.Tab.0.bottom" timestamp="1585059782737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="237" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585059782737" />
+    <state width="316" height="872" key="GridCell.Tab.0.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1584981172326" />
+    <state width="237" height="695" key="GridCell.Tab.0.center" timestamp="1585059782737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="237" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585059782737" />
+    <state width="316" height="872" key="GridCell.Tab.0.center/48.24.1872.1023@48.24.1872.1023" timestamp="1584981172326" />
+    <state width="237" height="695" key="GridCell.Tab.0.left" timestamp="1585059782736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="237" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585059782736" />
+    <state width="316" height="872" key="GridCell.Tab.0.left/48.24.1872.1023@48.24.1872.1023" timestamp="1584981172326" />
+    <state width="237" height="695" key="GridCell.Tab.0.right" timestamp="1585059782737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="237" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585059782737" />
+    <state width="316" height="872" key="GridCell.Tab.0.right/48.24.1872.1023@48.24.1872.1023" timestamp="1584981172326" />
+    <state width="890" height="332" key="GridCell.Tab.1.bottom" timestamp="1584963033455">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="723" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584790619020" />
-    <state width="723" height="258" key="GridCell.Tab.1.center" timestamp="1584790619019">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="890" height="332" key="GridCell.Tab.1.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1584963033455" />
+    <state width="890" height="332" key="GridCell.Tab.1.center" timestamp="1584963033454">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="723" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584790619019" />
-    <state width="723" height="258" key="GridCell.Tab.1.left" timestamp="1584790619019">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="890" height="332" key="GridCell.Tab.1.center/48.24.1872.1023@48.24.1872.1023" timestamp="1584963033454" />
+    <state width="890" height="332" key="GridCell.Tab.1.left" timestamp="1584963033454">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="723" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584790619019" />
-    <state width="723" height="258" key="GridCell.Tab.1.right" timestamp="1584790619020">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="890" height="332" key="GridCell.Tab.1.left/48.24.1872.1023@48.24.1872.1023" timestamp="1584963033454" />
+    <state width="890" height="332" key="GridCell.Tab.1.right" timestamp="1584963033455">
+      <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="723" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584790619020" />
+    <state width="890" height="332" key="GridCell.Tab.1.right/48.24.1872.1023@48.24.1872.1023" timestamp="1584963033455" />
     <state x="947" y="126" key="RollbackChangesDialog" timestamp="1584616365384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="947" y="126" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584616365384" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1584614464161">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1585056825648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584614464161" />
-    <state x="629" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1584898756149">
-      <screen x="48" y="24" width="1872" height="1023" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585056825648" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585046418369">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584730195174" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585046418369" />
     <state x="629" y="322" key="com.intellij.ide.util.TipDialog/48.24.1872.1023@48.24.1872.1023" timestamp="1584898756149" />
     <state x="964" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583015268551">
       <screen x="0" y="0" width="1536" height="824" />
@@ -283,23 +289,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="347" y="151" width="841" height="553" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1584781263874" />
+    <state x="1185" y="288" width="556" height="503" key="extract.method.dialog" timestamp="1584967413294">
+      <screen x="48" y="24" width="1872" height="1023" />
+    </state>
+    <state x="1185" y="288" width="556" height="503" key="extract.method.dialog/48.24.1872.1023@48.24.1872.1023" timestamp="1584967413294" />
     <state x="431" y="212" width="663" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583007048214">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="212" width="663" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1583007048214" />
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1584616407982">
+    <state x="861" y="50" key="refactoring.ChangeSignatureDialog" timestamp="1585055574170">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584616407982" />
-    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583015055719">
+    <state x="861" y="50" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1585055574170" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1585055051144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583015055719" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585055051144" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585055045191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585055045191" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/seconds_and_minutes.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/oop_Java$if_else_statrmant.ic" NAME="if_else_statrmant Coverage Results" MODIFIED="1584616417995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/oop_Java$HeckerRank_example_soliution.ic" NAME="HeckerRank_example_soliution Coverage Results" MODIFIED="1584616348403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/oop_Java$Keywords_and_Expressaions.ic" NAME="Keywords_and_Expressaions Coverage Results" MODIFIED="1583015839953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/oop_Java$string.ic" NAME="string Coverage Results" MODIFIED="1582710325890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/oop_Java$HeckerRank_example_soliution.ic" NAME="HeckerRank_example_soliution Coverage Results" MODIFIED="1584616348403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
