@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="add new classes">
-      <change afterPath="$PROJECT_DIR$/src/CConverter/AboutWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CConverter/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CConverter/CurrencyConverter.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CConverter/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CConverter/JTextFieldLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CConverter/MainWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/University/InputOutputtest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="add new classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,7 +206,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582663104869</updated>
       <workItem from="1594225392265" duration="9473000" />
-      <workItem from="1594476920094" duration="3329000" />
+      <workItem from="1594476920094" duration="3627000" />
     </task>
     <task id="LOCAL-00001" summary="new class adding">
       <created>1584616604127</created>
@@ -232,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594289202704</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add new classes">
+      <created>1594482633176</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594482633176</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,25 +262,25 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="442" y="176" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1594481879353" />
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1594481961487">
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1594482408842">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1594481961487" />
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1594482408842" />
     <state width="316" height="872" key="GridCell.Tab.0.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
-    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1594481961486">
+    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1594482408842">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1594481961486" />
+    <state width="1431" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1594482408842" />
     <state width="316" height="872" key="GridCell.Tab.0.center/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
-    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1594481961486">
+    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1594482408842">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1594481961486" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1594482408842" />
     <state width="316" height="872" key="GridCell.Tab.0.left/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
-    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1594481961487">
+    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1594482408842">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1594481961487" />
+    <state width="1431" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1594482408842" />
     <state width="316" height="872" key="GridCell.Tab.0.right/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
     <state width="890" height="332" key="GridCell.Tab.1.bottom" timestamp="1586331628140">
       <screen x="48" y="24" width="1872" height="1023" />
@@ -305,10 +302,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="218" y="9" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1594481888177" />
-    <state x="330" y="168" key="Vcs.Push.Dialog.v2" timestamp="1594289210477">
+    <state x="330" y="168" key="Vcs.Push.Dialog.v2" timestamp="1594482637332">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="330" y="168" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1594289210477" />
+    <state x="330" y="168" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1594482637332" />
     <state x="566" y="256" width="819" height="841" key="run.anything.popup" timestamp="1586317659717">
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
