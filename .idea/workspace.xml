@@ -19,13 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/University/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/examOutput1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/examOutput2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/examOutput3.java" afterDir="false" />
+    <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="add new classes">
+      <change afterPath="$PROJECT_DIR$/src/CConverter/AboutWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CConverter/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CConverter/CurrencyConverter.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CConverter/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CConverter/JTextFieldLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CConverter/MainWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop_Java/University/InputOutputtest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +48,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -70,10 +78,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/CConverter/CurrencyConverter.jar!/" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunAnythingCache">
@@ -81,10 +89,16 @@
       <command value="if_else_statrmant" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.examOutput1">
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="University.EvenOdd" />
+  <component name="RunManager" selected="Application.CurrencyConverter">
+    <configuration name="CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CConverter.CurrencyConverter" />
       <module name="oop_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CConverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,9 +117,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="University.Square" />
+    <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CConverter.MainWindow" />
       <module name="oop_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CConverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -169,19 +189,19 @@
       <item itemvalue="Application.Keywords_and_Expressaions" />
       <item itemvalue="Application.string" />
       <item itemvalue="Application.Java_Stdin_and_Stdout_II$Solution" />
-      <item itemvalue="Application.EvenOdd" />
       <item itemvalue="Application.examOutput1" />
       <item itemvalue="Application.examOutput2" />
       <item itemvalue="Application.examOutput3" />
-      <item itemvalue="Application.Square" />
+      <item itemvalue="Application.MainWindow" />
+      <item itemvalue="Application.CurrencyConverter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CurrencyConverter" />
+        <item itemvalue="Application.MainWindow" />
         <item itemvalue="Application.examOutput1" />
         <item itemvalue="Application.examOutput2" />
         <item itemvalue="Application.examOutput3" />
-        <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.Square" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +215,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582663104869</updated>
-      <workItem from="1594225392265" duration="9189000" />
+      <workItem from="1594225392265" duration="9473000" />
+      <workItem from="1594476920094" duration="3329000" />
     </task>
     <task id="LOCAL-00001" summary="new class adding">
       <created>1584616604127</created>
@@ -204,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584616604127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add new classes">
+      <created>1594289202703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594289202704</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,28 +253,37 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new class adding" />
-    <option name="LAST_COMMIT_MESSAGE" value="new class adding" />
+    <MESSAGE value="add new classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new classes" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1594288992696">
+    <state x="218" y="9" key="#Project_Structure" timestamp="1594477367639">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1594288992696" />
+    <state x="218" y="9" key="#Project_Structure/0.0.1474.864@0.0.1474.864" timestamp="1594477367639" />
+    <state x="442" y="176" key="FileChooserDialogImpl" timestamp="1594481879353">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="442" y="176" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1594481879353" />
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1594481961487">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1594481961487" />
     <state width="316" height="872" key="GridCell.Tab.0.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
-    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1594288992696">
+    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1594481961486">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1594288992696" />
+    <state width="1431" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1594481961486" />
     <state width="316" height="872" key="GridCell.Tab.0.center/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
-    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1594288992695">
+    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1594481961486">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1594288992695" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1594481961486" />
     <state width="316" height="872" key="GridCell.Tab.0.left/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
-    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1594288992696">
+    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1594481961487">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1594288992696" />
+    <state width="1431" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1594481961487" />
     <state width="316" height="872" key="GridCell.Tab.0.right/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
     <state width="890" height="332" key="GridCell.Tab.1.bottom" timestamp="1586331628140">
       <screen x="48" y="24" width="1872" height="1023" />
@@ -264,6 +301,14 @@
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
     <state width="890" height="332" key="GridCell.Tab.1.right/48.24.1872.1023@48.24.1872.1023" timestamp="1586331628140" />
+    <state x="218" y="9" key="SettingsEditor" timestamp="1594481888177">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="218" y="9" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1594481888177" />
+    <state x="330" y="168" key="Vcs.Push.Dialog.v2" timestamp="1594289210477">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="330" y="168" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1594289210477" />
     <state x="566" y="256" width="819" height="841" key="run.anything.popup" timestamp="1586317659717">
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
