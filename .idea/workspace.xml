@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ec10db9-917f-4083-8343-e2d42e6dd994" name="Default Changelist" comment="add new classes">
-      <change afterPath="$PROJECT_DIR$/src/University/ControlStructTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/Student/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/University/Errors/CommonErrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/University/Errors/DocDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/University/Inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/University/Inheritance/ModifyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/University/Inheritance/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/University/Inheritance/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,13 +92,13 @@
       <command value="if_else_statrmant" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ControlStructTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="University.ControlStructTest" />
+  <component name="RunManager" selected="Application.examOutput3">
+    <configuration name="CommonErrors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="University.Errors.CommonErrors" />
       <module name="oop_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="University.student.*" />
+          <option name="PATTERN" value="University.Errors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CConverter.CurrencyConverter" />
+    <configuration name="ControlStructTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="University.ControlStructTest" />
       <module name="oop_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CConverter.*" />
+          <option name="PATTERN" value="University.student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CConverter.MainWindow" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="University.Inheritance.Test" />
       <module name="oop_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CConverter.*" />
+          <option name="PATTERN" value="University.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="examOutput1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="University.examOutput1" />
+    <configuration name="examOutput3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="University.examOutput3" />
       <module name="oop_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="University.student.*" />
+          <option name="PATTERN" value="University.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,19 +192,19 @@
       <item itemvalue="Application.Keywords_and_Expressaions" />
       <item itemvalue="Application.string" />
       <item itemvalue="Application.Java_Stdin_and_Stdout_II$Solution" />
-      <item itemvalue="Application.examOutput1" />
-      <item itemvalue="Application.MainWindow" />
-      <item itemvalue="Application.CurrencyConverter" />
       <item itemvalue="Application.ControlStructTest" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.CommonErrors" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.examOutput3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.examOutput3" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.CommonErrors" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ControlStructTest" />
-        <item itemvalue="Application.CurrencyConverter" />
-        <item itemvalue="Application.MainWindow" />
-        <item itemvalue="Application.examOutput1" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +219,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582663104869</updated>
       <workItem from="1594225392265" duration="9473000" />
-      <workItem from="1594476920094" duration="9260000" />
+      <workItem from="1594476920094" duration="9319000" />
+      <workItem from="1594565520602" duration="2004000" />
     </task>
     <task id="LOCAL-00001" summary="new class adding">
       <created>1584616604127</created>
@@ -246,7 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594482703717</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add new classes">
+      <created>1594493959845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594493959845</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add new classes">
+      <created>1594493982857</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594493982857</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,25 +301,25 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="442" y="176" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1594481879353" />
-    <state width="520" height="734" key="GridCell.Tab.0.bottom" timestamp="1594491263541">
+    <state width="520" height="734" key="GridCell.Tab.0.bottom" timestamp="1594493999157">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="520" height="734" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1594491263541" />
+    <state width="520" height="734" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1594493999157" />
     <state width="316" height="872" key="GridCell.Tab.0.bottom/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
-    <state width="520" height="734" key="GridCell.Tab.0.center" timestamp="1594491263541">
+    <state width="520" height="734" key="GridCell.Tab.0.center" timestamp="1594493999157">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="520" height="734" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1594491263541" />
+    <state width="520" height="734" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1594493999157" />
     <state width="316" height="872" key="GridCell.Tab.0.center/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
-    <state width="520" height="734" key="GridCell.Tab.0.left" timestamp="1594491263540">
+    <state width="520" height="734" key="GridCell.Tab.0.left" timestamp="1594493999157">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="520" height="734" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1594491263540" />
+    <state width="520" height="734" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1594493999157" />
     <state width="316" height="872" key="GridCell.Tab.0.left/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
-    <state width="520" height="734" key="GridCell.Tab.0.right" timestamp="1594491263541">
+    <state width="520" height="734" key="GridCell.Tab.0.right" timestamp="1594493999157">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="520" height="734" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1594491263541" />
+    <state width="520" height="734" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1594493999157" />
     <state width="316" height="872" key="GridCell.Tab.0.right/48.24.1872.1023@48.24.1872.1023" timestamp="1586364841229" />
     <state width="890" height="332" key="GridCell.Tab.1.bottom" timestamp="1586331628140">
       <screen x="48" y="24" width="1872" height="1023" />
@@ -323,10 +341,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="218" y="9" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1594483330636" />
-    <state x="330" y="168" key="Vcs.Push.Dialog.v2" timestamp="1594482713660">
+    <state x="330" y="168" key="Vcs.Push.Dialog.v2" timestamp="1594493984829">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="330" y="168" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1594482713660" />
+    <state x="330" y="168" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1594493984829" />
     <state x="566" y="256" width="819" height="841" key="run.anything.popup" timestamp="1586317659717">
       <screen x="48" y="24" width="1872" height="1023" />
     </state>
